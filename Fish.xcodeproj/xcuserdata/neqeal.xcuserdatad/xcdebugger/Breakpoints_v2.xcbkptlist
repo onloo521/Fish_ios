@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineViewController.swift"
+            timestampString = "480169691.15767"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MineViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fish.MineViewController.timer.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSTimer&gt;"
+                  moduleName = "Fish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neqeal/Documents/Fish1/MineViewController.swift"
+                  timestampString = "480326458.848252"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fish.MineViewController.timer.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSTimer&gt;"
+                  moduleName = "Fish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neqeal/Documents/Fish1/MineViewController.swift"
+                  timestampString = "480326458.848481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fish.MineViewController.init (Fish.MineViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Fish.MineViewController"
+                  moduleName = "Fish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neqeal/Documents/Fish1/MineViewController.swift"
+                  timestampString = "480326458.848697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fish.MineViewController.init (Fish.MineViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Fish.MineViewController&gt;"
+                  moduleName = "Fish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neqeal/Documents/Fish1/MineViewController.swift"
+                  timestampString = "480326458.848929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
